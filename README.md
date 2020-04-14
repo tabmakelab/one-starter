@@ -1,0 +1,2 @@
+### About One Starter
+One starter includes a series of scaffolding projects covers at font-end, middle-end, back-end, desktop, mobile usage for developers. Mostly, we don't make creative thing here, and just want to find out some best practices to put things together in the right way. 
